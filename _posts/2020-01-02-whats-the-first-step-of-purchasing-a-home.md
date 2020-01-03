@@ -20,4 +20,4 @@ youtube_code: qCp79pMUjII
 
 {% include youtube.html %}
 
-The first step you need to take in order to purchase a home is talk to a mortgage lender. They will be able to help guide you through the process of getting approved for a loan amount. Once you find out what you qualify for, it helps you and your agent know exactly what you can afford. Then you can start making a plan with your agent for your home search.
+The first step you need to take in order to purchase a home is to talk to a mortgage lender. They will be able to help guide you through the process of getting approved for a loan amount. Once you find out what you qualify for, it helps you and your agent know exactly what you can afford. Then you can start making a plan with your agent for your home search. If you ever have any questions about real estate, please feel free to call or email me. I would love to help you.
