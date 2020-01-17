@@ -25,9 +25,9 @@ Before you list your home for sale, be sure you follow these six key tips in ord
 
 **1\. Meet with your agent.** Your agent will provide you with updates on the market, your neighborhood, and home prices. This will give you some guidance on what to do and what not to do before you list your home.
 
-**2\. Talk to a lender.** You need to make sure that you qualify for a move-up property so that you know exactly how much you’ll net for the property.
+**2\. Talk to a lender.** You need to make sure that you qualify for a move-up property so that you know exactly how much you’ll net.
 
-**3\. Price your house correctly.** If you price your home according to its market value, you won’t have any reservations about how long it will take to sell
+**3\. Price your house correctly.** If you price your home according to its market value, you won’t have any reservations about how long it will take to sell.
 
 {% include pullquote.html %}
 
