@@ -8,7 +8,7 @@ excerpt: >-
   If you want top dollar for your next home sale, follow these six tips before
   you list.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kathy+Low/6+Tips+to+Help+You+Sell+Your+Home+for+Top+Dollar.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kathy+Low/6+Tips+to+Help+You+Sell+Your+Home+for+Top+Dollar+(1).mp4
 pullquote: >-
   By following these tips, you’ll put yourself in a great position to sell your
   home for the most money possible.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/topdollar-yt.jpg
-youtube_code: eFNK2tPpiYE
+youtube_code: PBvcC4ASPsU
 ---
 
 {% include youtube.html %}
